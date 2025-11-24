@@ -26,11 +26,11 @@ It helps users **book parking slots**, make **secure payments**, view **QR codes
 ## 📂 Project Structure
 Vyshu_Project/
 │
-├── app.py # Main Flask application
-├── init_db.py # Database initialization script
-├── requirements.txt # All dependencies
+├── app.py 
+├── init_db.py
+├── requirements.txt 
 │
-├── templates/ # HTML Templates (Jinja2)
+├── templates/ 
 │ ├── admin_dashboard.html
 │ ├── admin_manage_users.html
 │ ├── admin_view_booking.html
@@ -45,6 +45,6 @@ Vyshu_Project/
 ├── css, images, icons
 ├── payment.css
 ├── parking-bg.mp4
-├── uploads/ # Stored user QR codes
+├── uploads/ 
 
 ---
