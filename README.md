@@ -24,7 +24,7 @@ It helps users **book parking slots**, make **secure payments**, view **QR codes
 ---
 
 ## 📂 Project Structure
-Vyshu_Project/
+SmartParkingSystem/
 │
 ├── app.py 
 ├── init_db.py
